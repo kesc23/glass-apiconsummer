@@ -1,6 +1,6 @@
 {
     "name": "martin-fields/glass-apiconsummer",
-    "type": "library",
+    "type": "glass-module",
     "description": "API consumming module for PHP",
     "version": "0.6.0",
     "readme": "README.md",
