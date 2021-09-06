@@ -2,11 +2,13 @@
 namespace MartinFields\Glass;
 
 /**
- * Class ApiConsummer
+ * Class APIConsummer
  * 
  * Helping to make cURL requests to API's.
  * 
- * @since 0.6.2
+ * @version 0.6.0
+ * 
+ * @package APIConsummer
  */
 Class APIConsummer
 {
