@@ -3,7 +3,7 @@
     "type": "library",
     "description": "API consumming module for PHP",
     "keywords": ["modular","php","API","cURL"],
-    "homepage": "https://github.com/kesc23/APIConsummer",
+    "homepage": "https://github.com/kesc23/glass-apiconsummer",
     "license": "GPL-3.0-or-later",
     "authors": [
         {
