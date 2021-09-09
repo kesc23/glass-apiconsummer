@@ -17,6 +17,6 @@
     ],
     "require": {
         "php": ">=7",
-        "composer/installers": "~1.0"    
+        "martin-fields/glass-moduleinstaller": "dev-main"
     }
 }
